@@ -24,7 +24,7 @@ function App() {
           <a href={url}>{user.name}</a>
         </h3>
         <p>
-          <strong>Location</strong>
+          <strong> Location</strong>
           {user.location}
         </p>
         <p>
@@ -32,7 +32,7 @@ function App() {
           {user.foodType}
         </p>
         <p>
-          <strong>Age</strong>
+          <strong>Age </strong>
           {user.age}
         </p>
         <p>
