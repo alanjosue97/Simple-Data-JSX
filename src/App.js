@@ -24,7 +24,7 @@ function App() {
           <a href={url}>{user.name}</a>
         </h3>
         <p>
-          <strong>Locattttion</strong>
+          <strong>Location</strong>
           {user.location}
         </p>
         <p>
